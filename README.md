@@ -9,9 +9,9 @@ Webpack loader for flattening nested translation files, imports JSON and exports
         },
         "user": "Current user"        
     }
-}```
+}
 
-```after.json
+after.json
 {
     "app.links.home": "Back to homepage",
     "app.user": "Current user"
