@@ -1,0 +1,28 @@
+{
+  "name": "translation-loader",
+  "version": "0.0.1",
+  "description": "Webpack loader for flattening nested translation files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aatkin/translation-loader.git"
+  },
+  "keywords": [
+    "Webpack",
+    "loader",
+    "translation",
+    "json"
+  ],
+  "author": "Anssi Kinnunen @aatkin",
+  "license": "MIT",
+  "peerDependencies": {
+    "json-loader": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/aatkin/translation-loader/issues"
+  },
+  "homepage": "https://github.com/aatkin/translation-loader#readme"
+}
