@@ -15,7 +15,7 @@ module.exports = function(source) {
             }
             else
             {
-                const vals = enumerate(val, prop + ".");
+                const vals = enumerate(val, path + prop + ".");
                 Object.assign(flattened, vals);
             }
         }
